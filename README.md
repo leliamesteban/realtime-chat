@@ -20,14 +20,14 @@ Real time chat application with WebSockets and a Modern Front-End.
 - Modern, responsive UI with a sleek design
 - User authentication
 - Chat room functionality
-- Hosted live on a cloud platform like Heroku or Vercel
+- Hosted live on a cloud platform with Vercel
 
 ## Technologies
 
 - **Front-End**: React.js, Material-UI (for UI components), Socket.IO (for WebSockets)
 - **Back-End**: Node.js, Express.js, Socket.IO
-- **Database**: MongoDB (optional, for user authentication and message storage)
-- **Hosting**: Heroku or Vercel
+- **Database**: MongoDB
+- **Hosting**: Vercel
 
 ## Installation
 
@@ -46,6 +46,12 @@ Real time chat application with WebSockets and a Modern Front-End.
 
 ## Usage
 
-```bash
+Run locally.
 
+```bash
+npm start
 ```
+
+Run on the server.
+
+[https://realtime-chat-sigma-seven.vercel.app/](https://realtime-chat-sigma-seven.vercel.app/)
